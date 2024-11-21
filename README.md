@@ -17,13 +17,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/itsmehdiabdi)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/IthinkitsMeT/)
-
----
-
 ### 🔥 My Projects
 
 - **[Gasub](https://github.com/mahdieh-amiri1/ethglobal-bangkok):** Multichain gas sponsorship platform
