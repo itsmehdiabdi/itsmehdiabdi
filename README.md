@@ -27,6 +27,9 @@
 ### 🔥 My Projects
 
 - **[Gasub](https://github.com/mahdieh-amiri1/ethglobal-bangkok):** Multichain gas sponsorship platform
+- **[Dongi](https://github.com/Dongi-App/Dongi-Server):** Lite Splitwise server (University Project)
+- **[Airline](https://github.com/itsmehdiabdi/Airline-Server):** Airline server (University Project)
+- **[KPD](https://github.com/itsmehdiabdi/kidney-paired-donation-server):** Kidney paired donation platform server (University Project)
 
 Feel free to check out more on [my repositories](https://github.com/yourusername?tab=repositories)!
 
