@@ -8,12 +8,7 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on AA, Chain abstraction and also uniswap hooks.
 - ⚡ Fun fact: Just trying to make mommy proud.
-
----
-
-## 🛠️ Languages
-
-- Python, Solidity, SQL, JS, TS
+- 🛠️ Languages: Python, Solidity, SQL, JS, TS
 
 ---
 
@@ -23,9 +18,3 @@
 - **[Dongi](https://github.com/Dongi-App/Dongi-Server):** Lite Splitwise server (University Project)
 - **[Airline](https://github.com/itsmehdiabdi/Airline-Server):** Airline server (University Project)
 - **[KPD](https://github.com/itsmehdiabdi/kidney-paired-donation-server):** Kidney paired donation platform server (University Project)
-
-Feel free to check out more on [my repositories](https://github.com/yourusername?tab=repositories)!
-
----
-
-Thanks for visiting! 😊
