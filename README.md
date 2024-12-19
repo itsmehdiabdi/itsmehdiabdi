@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Algotrading.
+- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on AA, Chain abstraction and also uniswap hooks.
 - ⚡ Fun fact: Just trying to make mommy proud.
 - 🛠️ Languages: Python, Solidity, SQL, JS, TS
