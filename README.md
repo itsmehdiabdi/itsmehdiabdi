@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently exploring agentic development.
-- 👯 I’m looking to collaborate on AA, Chain abstraction and also uniswap hooks.
+- 🌱 I’m currently learning Golang.
+- 👯 I’m looking to collaborate on AI Agents and Web3 projects.
 - ⚡ Fun fact: Just trying to make mommy proud.
 - 🛠️ Languages: Python, Solidity, SQL, JS, TS
 
