@@ -14,6 +14,7 @@
 
 ### 🔥 My Projects
 
+- **[Agex](https://github.com/agex-org/):** Sonic agentic explorer
 - **[Gasub](https://github.com/mahdieh-amiri1/ethglobal-bangkok):** Multichain gas sponsorship platform
 - **[Dongi](https://github.com/Dongi-App/Dongi-Server):** Lite Splitwise server (University Project)
 - **[Airline](https://github.com/itsmehdiabdi/Airline-Server):** Airline server (University Project)
